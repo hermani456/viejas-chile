@@ -1,0 +1,37 @@
+/* definiendo color de fondo, color de texto y font family para todo el body */
+body{
+   background-color: black;
+   color: white;
+   font-family: 'Roboto', sans-serif;
+}
+/* define font family para los titulos */
+h2, h5{
+   font-family: 'Roboto Condensed', sans-serif;
+}
+/* ajuste tamaño images en el carousel */
+.carousel-item img {
+   height: 700px;
+   object-fit: cover;
+   object-position: center;
+}
+/* define font weight para los titulos de las cards */
+#destacados h5{
+   font-weight: 700;
+}
+/* define el body color en las cards */
+.card-body{
+   background-color: var(--info);
+}
+/* define un height maximo para las cards */
+#destacados img{
+   height: 190px;
+}
+/* cambia color a los hr */
+hr{
+   background-color: var(--info);
+}
+/* cambia color a los iconos del footer y elimina deco */
+#footer a{
+   text-decoration: none;
+   color: white;
+}
