@@ -1,3 +1,3 @@
 # viajes-chile
 
-Dominio personalizado: https://malatuca.ga/viejas-chile/
+Dominio personalizado: https://diegocampuzano.ml/viejas-chile/
